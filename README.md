@@ -1,6 +1,6 @@
 # IFT 3710/6759 - Projets (avancés) en apprentissage automatique
 ## Git tutorial
-
+TEST
 A dummy repository for educational purposes
 
 ## A playground for you to play
@@ -8,7 +8,9 @@ A dummy repository for educational purposes
 Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
-* YoYassir Mamouniur M0rph3e
+* Qilin Wang, qilinwang
+* Charmi Chokshi, charmichokshi
+* Benjamin Bourassa, benjy765
 
 ## Intro to Markdown
 
